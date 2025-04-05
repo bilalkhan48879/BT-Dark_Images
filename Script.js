@@ -1,4 +1,5 @@
-const API_KEY = 'KnMugWHqXM3TnDSsqgAVs9nz';
+// const API_KEY = 'KnMugWHqXM3TnDSsqgAVs9nz'; ==> First API
+const API_KEY = 'GwFG1v7u4gziSWFe8gLcPU98'; //==> Second API
 const API_URL = 'https://api.remove.bg/v1.0/removebg';
 
 
